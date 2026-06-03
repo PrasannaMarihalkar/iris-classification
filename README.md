@@ -34,7 +34,7 @@ Feature Scaling         KNN (elbow-tuned K)       Per-class Metrics
 ## Repository Structure
 
 ```
-iris-knn-classification/
+iris-classification/
 │
 ├── iris_knn_classification.ipynb   ← Main notebook (run this)
 ├── requirements.txt                 ← Python dependencies
@@ -53,8 +53,8 @@ iris-knn-classification/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/iris-knn-classification.git
-cd iris-knn-classification
+git clone https://github.com/YOUR_USERNAME/iris-classification.git
+cd iris-classification
 ```
 
 ### 2. Install dependencies
