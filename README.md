@@ -182,5 +182,6 @@ This project proves competency in the complete supervised learning pipeline:
 6. **Reproducibility** — seeded randomness, clean code, full documentation
 
 ---
-
-*Built for DecodeLabs Industrial Training Kit | Batch 2026*
+## Author
+**Prasanna Chidambar Marihalkar** <br>
+Built for DecodeLabs Industrial Training Kit | Batch 2026
